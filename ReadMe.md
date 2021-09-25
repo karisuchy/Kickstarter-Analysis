@@ -8,7 +8,7 @@ The goal of this analysis it to determine what factors led to successful or fail
 
 ## Analysis and Challenges
 
-Though her immediate focus is a play in the US, Louise also has a future interest for a musical in Great Britan. I concentrated my analysis on Kickstarter campaigns in the US or UK related to theaters. Launch dates, length of fundraising campaigns, goal amounts, average donations, and types of productions were considered. 
+Though her immediate focus is a play in the US, Louise also has an interest for a future musical in Great Britan. I concentrated my analysis on Kickstarter campaigns in the US or UK related to theaters. Launch dates, length of fundraising campaigns, goal amounts, average donations, and types of productions were considered. 
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -26,13 +26,13 @@ Though her immediate focus is a play in the US, Louise also has a future interes
 ### Challenges and Difficulties Encountered
 
 
-My greatest challenge was learning and understanding the terms, formulas, and meanings behind the statistical analysis.  
+My greatest challenge was learning and understanding the terms, formulas, and meanings behind the statistical analysis. I overcame the challenge by reading the module information several times, reviewing the instructor slides, and doing some basic research on google.  
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-The summer, specifically May, June, and July, are the best three months to launch a campaign. 
+The summer, specifically May, June, and July, are the best three months to launch a successful campaign. 
 It is best to avoid starting a campaign during the winter months of November through February. 
 
 - What can you conclude about the Outcomes based on Goals?
