@@ -1,16 +1,14 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Analyze previous kickstarter campaigns to provide helpful in formation to Louise so she can develop a successful crowd funding campaign for her new play "Fever".
+Analyze previous Kickstarter campaigns to provide helpful information to Louise so she can develop a successful crowd funding campaign for her new play "Fever".
 
 ### Purpose
 The goal of this analysis it to determine what factors led to successful or failed campaigns so Louise can use these insights to structure her campaign for success.  
 
 ## Analysis and Challenges
 
-
-
-My Challenge was learning the terms and meanings behind the statiscal analysis.  
+Though her immediate focus is a play in the US, Louise also has a future interest for a musical in Great Britan. I concentrated my analysis on Kickstarter campaigns in the US or UK related to theaters. Launch dates, length of fundraising campaigns, goal amounts, average donations, and types of productions were considered. 
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -26,6 +24,9 @@ My Challenge was learning the terms and meanings behind the statiscal analysis.
 
 
 ### Challenges and Difficulties Encountered
+
+
+My greatest challenge was learning and understanding the terms, formulas, and meanings behind the statistical analysis.  
 
 ## Results
 
@@ -44,3 +45,5 @@ Campaigns with goals exceeding $45,000 almost always lead to failure so should a
 We do not know the quality of the plays or the marketing strategies used for the campaigns in the Kickstarter database.  Both of these factors could have a big impact on the success or failure of previous campaigns. 
 
 - What are some other possible tables and/or graphs that we could create?
+
+Additional analysis could focus on the correlation between staff picks and spotlights on successful campaigns.  
